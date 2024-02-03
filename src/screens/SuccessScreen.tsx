@@ -16,9 +16,9 @@ const SuccessScreen = () => {
           alignItems: "center",
         }}>
         <img src={Success} alt="img" />
-        <Typography variant="h6">Thank You</Typography>
         <Typography variant="h6">
-          Successfully Submitted Your Response
+          We thank you for your time spent taking this survey.Your response has
+          been recorded.
         </Typography>
         <Button
           variant="contained"
